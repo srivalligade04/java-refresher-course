@@ -12,6 +12,9 @@ A structured, hands-on refresher course for Java developers looking to revisit c
 - [Prerequisites](#prerequisites)
 - [Getting Started](#getting-started)
 - [Running the Code](#running-the-code)
+- [IDE Setup](#ide-setup)
+  - [IntelliJ IDEA](#-intellij-idea)
+  - [VS Code](#-vs-code)
 - [Wiki](#wiki)
 - [Contributing](#contributing)
 - [License](#license)
@@ -102,6 +105,72 @@ mvn exec:java -Dexec.mainClass="com.example.ClassName"
 chmod +x run.sh
 ./run.sh
 ```
+
+---
+
+## IDE Setup
+
+### 🟠 IntelliJ IDEA
+
+#### Import the Project
+1. Open IntelliJ → Click **"Open"** (or `File > Open`)
+2. Navigate to the cloned `java-refresher-course` folder and select it
+3. IntelliJ will **auto-detect** the `pom.xml` — click **"Open as Project"**
+4. Wait for Maven to **sync and download dependencies** (progress bar at the bottom)
+
+#### Run the Code
+- **Single file:** Open any `.java` file → click the ▶️ **green play button** next to the `main()` method
+- **Via Maven:** Open the **Maven panel** (right sidebar) → `Plugins > exec > exec:java`
+- **Via Terminal** (inside IntelliJ): `View > Tool Windows > Terminal`, then:
+  ```bash
+  ./run.sh
+  # or
+  mvn exec:java -Dexec.mainClass="com.example.YourClassName"
+  ```
+
+#### Tips
+- If Maven doesn't auto-sync: right-click `pom.xml` → **"Maven > Reload Project"**
+- Set JDK: `File > Project Structure > SDKs` → make sure Java 11+ is selected
+
+---
+
+### 🔵 VS Code
+
+#### Install Required Extensions First
+Open VS Code → Extensions (`Ctrl+Shift+X`) → install:
+- **Extension Pack for Java** *(by Microsoft)* — includes Maven, debugger, language support
+- **Maven for Java** *(included in the pack)*
+
+#### Import the Project
+1. `File > Open Folder` → select the `java-refresher-course` folder
+2. VS Code will **auto-detect** the Maven project and show a notification — click **"Yes"** to import
+3. Wait for the Java Language Server to initialize (bottom status bar)
+
+#### Run the Code
+- **Single file:** Open any `.java` file → click **"Run"** link that appears above `main()`, or right-click → **"Run Java"**
+- **Via Maven sidebar:** Click the **Maven icon** in the left sidebar → expand your project → `Plugins > exec > exec:java`
+- **Via Terminal** (`` Ctrl+` ``):
+  ```bash
+  ./run.sh
+  # or
+  mvn clean install
+  mvn exec:java -Dexec.mainClass="com.example.YourClassName"
+  ```
+
+#### Tips
+- If Java isn't detected: `Ctrl+Shift+P` → type **"Java: Configure Java Runtime"** → set your JDK path
+- To see all Java files: use the **Java Projects** panel in the Explorer sidebar
+
+---
+
+### ⚡ IDE Quick Comparison
+
+| Feature | IntelliJ IDEA | VS Code |
+|---|---|---|
+| Maven auto-detect | ✅ Automatic | ✅ With extension |
+| Run button | ✅ Built-in | ✅ With extension |
+| Best for | Full Java development | Lightweight editing |
+| Setup effort | Minimal | Requires extensions |
 
 ---
 
