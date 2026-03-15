@@ -48,7 +48,7 @@ The course is organized into **7 modules** that mirror both the `src/` code and 
 | 07 | [Design Patterns](https://github.com/srivalligade04/java-refresher-course/wiki/Module-07-Design-Patterns) | Singleton, Factory, Builder, Observer, Strategy |
 
 **Bonus Resources:**
-- 📋 [Interview Q&A Master](https://github.com/srivalligade04/java-refresher-course/wiki/Interview-Q&A-Master) — 100+ Q&A across all topics
+- 📋 [Interview-Q&A-Master](https://github.com/srivalligade04/java-refresher-course/wiki/Interview-Q&A-Master) — 100+ Q&A across all topics
 - ⚡ [Cheat Sheet](https://github.com/srivalligade04/java-refresher-course/wiki/Cheat-Sheet) — Quick reference card
 - 🚀 [How To Run](https://github.com/srivalligade04/java-refresher-course/wiki/How-To-Run) — Detailed setup guide
 
