@@ -11,7 +11,6 @@ A structured, hands-on Java refresher course designed to take you from rusty →
 ## 📚 Table of Contents
 
 - [About](#about)
-- [Modules](#modules)
 - [4-Hour Study Plan](#️-4-hour-study-plan)
 - [Top 10 Interview Topics](#-top-10-interview-topics)
 - [Project Structure](#project-structure)
@@ -32,25 +31,8 @@ A structured, hands-on Java refresher course designed to take you from rusty →
 This repository is a comprehensive Java refresher course covering fundamental to intermediate Java concepts. Whether you're returning to Java after a break or preparing for interviews, this course gives you practical code examples, wiki study guides, a cheat sheet, and 100+ interview questions — all in one place.
 
 ---
-
-## Modules
-
-The course is organized into **7 modules** that mirror both the `src/` code and the wiki docs:
-
-| # | Module | Topics |
-|---|--------|--------|
-| 01 | [Java Basics](https://github.com/srivalligade04/java-refresher-course/wiki/Module-01-Java-Basics) | Primitives, Strings, Arrays, StringBuilder |
-| 02 | [OOP](https://github.com/srivalligade04/java-refresher-course/wiki/Module-02-OOP) | Encapsulation, Inheritance, Polymorphism, Interfaces |
-| 03 | [Collections](https://github.com/srivalligade04/java-refresher-course/wiki/Module-03-Collections) | List, Set, Map, Queue, Sorting |
-| 04 | [Exceptions](https://github.com/srivalligade04/java-refresher-course/wiki/Module-04-Exceptions) | try-catch, Custom Exceptions, I/O |
-| 05 | [Multithreading](https://github.com/srivalligade04/java-refresher-course/wiki/Module-05-Multithreading) | Threads, Executors, Atomic, synchronized |
-| 06 | [Java 8 Features](https://github.com/srivalligade04/java-refresher-course/wiki/Module-06-Java8-Features) | Lambdas, Streams, Optional, Collectors |
-| 07 | [Design Patterns](https://github.com/srivalligade04/java-refresher-course/wiki/Module-07-Design-Patterns) | Singleton, Factory, Builder, Observer, Strategy |
-
-**Bonus Resources:**
-- 📋 [Interview-Q&A-Master](https://github.com/srivalligade04/java-refresher-course/wiki/Interview-Q&A-Master) — 100+ Q&A across all topics
-- ⚡ [Cheat Sheet](https://github.com/srivalligade04/java-refresher-course/wiki/Cheat-Sheet) — Quick reference card
-- 🚀 [How To Run](https://github.com/srivalligade04/java-refresher-course/wiki/How-To-Run) — Detailed setup guide
+## WIKI
+https://github.com/srivalligade04/java-refresher-course/wiki
 
 ---
 
