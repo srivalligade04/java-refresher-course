@@ -11,6 +11,7 @@ A structured, hands-on Java refresher course designed to take you from rusty →
 ## 📚 Table of Contents
 
 - [About](#about)
+- [Modules](#modules)
 - [4-Hour Study Plan](#️-4-hour-study-plan)
 - [Top 10 Interview Topics](#-top-10-interview-topics)
 - [Project Structure](#project-structure)
@@ -31,8 +32,25 @@ A structured, hands-on Java refresher course designed to take you from rusty →
 This repository is a comprehensive Java refresher course covering fundamental to intermediate Java concepts. Whether you're returning to Java after a break or preparing for interviews, this course gives you practical code examples, wiki study guides, a cheat sheet, and 100+ interview questions — all in one place.
 
 ---
-## WIKI
-https://github.com/srivalligade04/java-refresher-course/wiki
+
+## Modules
+
+The course is organized into **7 modules** that mirror both the `src/` code and the wiki docs:
+
+| # | Module | Topics |
+|---|--------|--------|
+| 01 | [Java Basics](https://github.com/srivalligade04/java-refresher-course/wiki/Module%E2%80%9001%E2%80%90Java%E2%80%90Basics) | Primitives, Strings, Arrays, StringBuilder |
+| 02 | [OOP](https://github.com/srivalligade04/java-refresher-course/wiki/Module%E2%80%9002%E2%80%90OOP) | Encapsulation, Inheritance, Polymorphism, Interfaces |
+| 03 | [Collections](https://github.com/srivalligade04/java-refresher-course/wiki/Module%E2%80%9003%E2%80%90Collections) | List, Set, Map, Queue, Sorting |
+| 04 | [Exceptions](https://github.com/srivalligade04/java-refresher-course/wiki/Module%E2%80%9004%E2%80%90Exceptions) | try-catch, Custom Exceptions, I/O |
+| 05 | [Multithreading](https://github.com/srivalligade04/java-refresher-course/wiki/Module%E2%80%9005%E2%80%90Multithreading) | Threads, Executors, Atomic, synchronized |
+| 06 | [Java 8 Features](https://github.com/srivalligade04/java-refresher-course/wiki/Module%E2%80%9006%E2%80%90Java8%E2%80%90Features) | Lambdas, Streams, Optional, Collectors |
+| 07 | [Design Patterns](https://github.com/srivalligade04/java-refresher-course/wiki/Module%E2%80%9007%E2%80%90DesignPatterns) | Singleton, Factory, Builder, Observer, Strategy |
+
+**Bonus Resources:**
+- 📋 [Interview Q&A Master](https://github.com/srivalligade04/java-refresher-course/wiki/Interview%E2%80%90Q%26A%E2%80%90Master.md) — 100+ Q&A across all topics
+- ⚡ [Cheat Sheet](https://github.com/srivalligade04/java-refresher-course/wiki/Cheat%E2%80%90Sheet) — Quick reference card
+- 🚀 [How To Run](https://github.com/srivalligade04/java-refresher-course/wiki/How%E2%80%90To%E2%80%90Run) — Detailed setup guide
 
 ---
 
@@ -47,7 +65,7 @@ https://github.com/srivalligade04/java-refresher-course/wiki
 | 2:20 – 2:50 | Module 05 | Threads — race conditions, ExecutorService |
 | 2:50 – 3:20 | Module 06 | Java 8 — Streams & Lambdas |
 | 3:20 – 3:40 | Module 07 | Design Patterns — Singleton, Builder |
-| 3:40 – 4:00 | 🏆 Review | [Interview-Q&A-Master](https://github.com/srivalligade04/java-refresher-course/wiki/Interview%E2%80%90Q&A%E2%80%90Master) |
+| 3:40 – 4:00 | 🏆 Review | [Interview Q&A Master](https://github.com/srivalligade04/java-refresher-course/wiki/Interview%E2%80%90Q%26A%E2%80%90Master.md) |
 
 ---
 
@@ -214,15 +232,15 @@ The wiki is the **complete study guide** for this course, with one page per modu
 
 | Page | Description |
 |------|-------------|
-| [Module 01 – Java Basics](https://github.com/srivalligade04/java-refresher-course/wiki/Module-01-Java-Basics) | Primitives, Strings, Arrays, StringBuilder |
-| [Module 02 – OOP](https://github.com/srivalligade04/java-refresher-course/wiki/Module-02-OOP) | Encapsulation, Inheritance, Polymorphism, Interfaces |
-| [Module 03 – Collections](https://github.com/srivalligade04/java-refresher-course/wiki/Module-03-Collections) | List, Set, Map, Queue, Sorting |
-| [Module 04 – Exceptions](https://github.com/srivalligade04/java-refresher-course/wiki/Module-04-Exceptions) | try-catch, Custom Exceptions, I/O |
-| [Module 05 – Multithreading](https://github.com/srivalligade04/java-refresher-course/wiki/Module-05-Multithreading) | Threads, Executors, Atomic, synchronized |
-| [Module 06 – Java 8 Features](https://github.com/srivalligade04/java-refresher-course/wiki/Module-06-Java8-Features) | Lambdas, Streams, Optional, Collectors |
-| [Module 07 – Design Patterns](https://github.com/srivalligade04/java-refresher-course/wiki/Module-07-Design-Patterns) | Singleton, Factory, Builder, Observer, Strategy |
-| [Interview-Q&A-Master](https://github.com/srivalligade04/java-refresher-course/wiki/Interview-Q&A-Master) | 100+ Q&A across all topics |
-| [Cheat Sheet](https://github.com/srivalligade04/java-refresher-course/wiki/Cheat-Sheet) | Quick reference card |
+| [Module 01 – Java Basics](https://github.com/srivalligade04/java-refresher-course/wiki/Module%E2%80%9001%E2%80%90Java%E2%80%90Basics) | Primitives, Strings, Arrays, StringBuilder |
+| [Module 02 – OOP](https://github.com/srivalligade04/java-refresher-course/wiki/Module%E2%80%9002%E2%80%90OOP) | Encapsulation, Inheritance, Polymorphism, Interfaces |
+| [Module 03 – Collections](https://github.com/srivalligade04/java-refresher-course/wiki/Module%E2%80%9003%E2%80%90Collections) | List, Set, Map, Queue, Sorting |
+| [Module 04 – Exceptions](https://github.com/srivalligade04/java-refresher-course/wiki/Module%E2%80%9004%E2%80%90Exceptions) | try-catch, Custom Exceptions, I/O |
+| [Module 05 – Multithreading](https://github.com/srivalligade04/java-refresher-course/wiki/Module%E2%80%9005%E2%80%90Multithreading) | Threads, Executors, Atomic, synchronized |
+| [Module 06 – Java 8 Features](https://github.com/srivalligade04/java-refresher-course/wiki/Module%E2%80%9006%E2%80%90Java8%E2%80%90Features) | Lambdas, Streams, Optional, Collectors |
+| [Module 07 – Design Patterns](https://github.com/srivalligade04/java-refresher-course/wiki/Module%E2%80%9007%E2%80%90DesignPatterns) | Singleton, Factory, Builder, Observer, Strategy |
+| [Interview Q&A Master](https://github.com/srivalligade04/java-refresher-course/wiki/Interview%E2%80%90Q%26A%E2%80%90Master.md) | 100+ Q&A across all topics |
+| [Cheat Sheet](https://github.com/srivalligade04/java-refresher-course/wiki/Cheat%E2%80%90Sheet) | Quick reference card |
 
 ---
 
