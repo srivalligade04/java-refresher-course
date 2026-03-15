@@ -49,7 +49,7 @@ The course is organized into **7 modules** that mirror both the `src/` code and 
 
 **Bonus Resources:**
 - 📋 [Interview Q&A Master](https://github.com/srivalligade04/java-refresher-course/wiki/Interview%E2%80%90Q%26A%E2%80%90Master.md) — 100+ Q&A across all topics
-- ⚡ [Cheat Sheet](https://github.com/srivalligade04/java-refresher-course/wiki/Cheat%E2%80%90Sheet) — Quick reference card
+- ⚡ [Cheat Sheet](https://github.com/srivalligade04/java-refresher-course/wiki/Cheat%E2%80%90Sheet.md) — Quick reference card
 - 🚀 [How To Run](https://github.com/srivalligade04/java-refresher-course/wiki/How%E2%80%90To%E2%80%90Run) — Detailed setup guide
 
 ---
@@ -240,7 +240,7 @@ The wiki is the **complete study guide** for this course, with one page per modu
 | [Module 06 – Java 8 Features](https://github.com/srivalligade04/java-refresher-course/wiki/Module%E2%80%9006%E2%80%90Java8%E2%80%90Features) | Lambdas, Streams, Optional, Collectors |
 | [Module 07 – Design Patterns](https://github.com/srivalligade04/java-refresher-course/wiki/Module%E2%80%9007%E2%80%90DesignPatterns) | Singleton, Factory, Builder, Observer, Strategy |
 | [Interview Q&A Master](https://github.com/srivalligade04/java-refresher-course/wiki/Interview%E2%80%90Q%26A%E2%80%90Master.md) | 100+ Q&A across all topics |
-| [Cheat Sheet](https://github.com/srivalligade04/java-refresher-course/wiki/Cheat%E2%80%90Sheet) | Quick reference card |
+| [Cheat Sheet](https://github.com/srivalligade04/java-refresher-course/wiki/Cheat%E2%80%90Sheet.md) | Quick reference card |
 
 ---
 
