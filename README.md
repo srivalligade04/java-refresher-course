@@ -65,7 +65,7 @@ The course is organized into **7 modules** that mirror both the `src/` code and 
 | 2:20 – 2:50 | Module 05 | Threads — race conditions, ExecutorService |
 | 2:50 – 3:20 | Module 06 | Java 8 — Streams & Lambdas |
 | 3:20 – 3:40 | Module 07 | Design Patterns — Singleton, Builder |
-| 3:40 – 4:00 | 🏆 Review | [Interview Q&A Master](https://github.com/srivalligade04/java-refresher-course/wiki/Interview-Q&A-Master) |
+| 3:40 – 4:00 | 🏆 Review | [Interview-Q&A-Master](https://github.com/srivalligade04/java-refresher-course/wiki/Interview%E2%80%90Q&A%E2%80%90Master) |
 
 ---
 
@@ -239,7 +239,7 @@ The wiki is the **complete study guide** for this course, with one page per modu
 | [Module 05 – Multithreading](https://github.com/srivalligade04/java-refresher-course/wiki/Module-05-Multithreading) | Threads, Executors, Atomic, synchronized |
 | [Module 06 – Java 8 Features](https://github.com/srivalligade04/java-refresher-course/wiki/Module-06-Java8-Features) | Lambdas, Streams, Optional, Collectors |
 | [Module 07 – Design Patterns](https://github.com/srivalligade04/java-refresher-course/wiki/Module-07-Design-Patterns) | Singleton, Factory, Builder, Observer, Strategy |
-| [Interview Q&A Master](https://github.com/srivalligade04/java-refresher-course/wiki/Interview-Q&A-Master) | 100+ Q&A across all topics |
+| [Interview-Q&A-Master](https://github.com/srivalligade04/java-refresher-course/wiki/Interview-Q&A-Master) | 100+ Q&A across all topics |
 | [Cheat Sheet](https://github.com/srivalligade04/java-refresher-course/wiki/Cheat-Sheet) | Quick reference card |
 
 ---
